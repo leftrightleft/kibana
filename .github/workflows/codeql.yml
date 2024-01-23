@@ -1,6 +1,7 @@
-name: "CodeQL"
+name: "CodeQL - Advanced"
 
-# on:
+on:
+  workflow_dispatch:
 #   schedule:
 #     - cron: '27 21 * * *' # At 21:27 every day
 
